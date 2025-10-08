@@ -222,6 +222,7 @@ Scikit-learn: TF-IDF feature extraction and Logistic Regression.
 
 #### **INSTALLATIONS**
 git clone https://github.com/satyam-uforur/PROJECT.git
+
 cd project
 (ensure u are in project folder)
 
