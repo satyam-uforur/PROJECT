@@ -1,0 +1,501 @@
+file_name,text,intent
+female_001.wav,Mausam thoda thanda hai ya garam bataiye,weather_info
+male_001.wav,Mausam thoda thanda hai ya garam bataiye,weather_info
+female_002.wav,Mujhe batao Aaj barish hogi kya ji,weather_info
+male_002.wav,Mujhe batao Aaj barish hogi kya ji,weather_info
+female_003.wav,Agla hafte ka mausam kaisa hoga abhi,weather_info
+male_003.wav,Agla hafte ka mausam kaisa hoga abhi,weather_info
+female_004.wav,Kal ka mausam kaisa rahega na,weather_info
+male_004.wav,Kal ka mausam kaisa rahega na,weather_info
+female_005.wav,Bhai Agla hafte ka mausam kaisa hoga ji,weather_info
+male_005.wav,Bhai Agla hafte ka mausam kaisa hoga ji,weather_info
+female_006.wav,Agla hafte ka mausam kaisa hoga na,weather_info
+male_006.wav,Agla hafte ka mausam kaisa hoga na,weather_info
+female_007.wav,Agla hafte ka mausam kaisa hoga please,weather_info
+male_007.wav,Agla hafte ka mausam kaisa hoga please,weather_info
+female_008.wav,Kal ka mausam kaisa rahega na,weather_info
+male_008.wav,Kal ka mausam kaisa rahega na,weather_info
+female_009.wav,Sir Kal ka mausam kaisa rahega please,weather_info
+male_009.wav,Sir Kal ka mausam kaisa rahega please,weather_info
+female_010.wav,Kya Aaj dhup ya badal rahega bataiye,weather_info
+male_010.wav,Kya Aaj dhup ya badal rahega bataiye,weather_info
+female_011.wav,Kal ka mausam kaisa rahega aaj,weather_info
+male_011.wav,Kal ka mausam kaisa rahega aaj,weather_info
+female_012.wav,Mujhe batao Kal ka mausam kaisa rahega,weather_info
+male_012.wav,Mujhe batao Kal ka mausam kaisa rahega,weather_info
+female_013.wav,Bhai Agla hafte ka mausam kaisa hoga ji,weather_info
+male_013.wav,Bhai Agla hafte ka mausam kaisa hoga ji,weather_info
+female_014.wav,Sir Aaj barish hogi kya abhi,weather_info
+male_014.wav,Sir Aaj barish hogi kya abhi,weather_info
+female_015.wav,Mausam thoda thanda hai ya garam kya,weather_info
+male_015.wav,Mausam thoda thanda hai ya garam kya,weather_info
+female_016.wav,Kya Aaj dhup ya badal rahega na,weather_info
+male_016.wav,Kya Aaj dhup ya badal rahega na,weather_info
+female_017.wav,Aaj barish hogi kya aaj,weather_info
+male_017.wav,Aaj barish hogi kya aaj,weather_info
+female_018.wav,Kal ka mausam kaisa rahega?,weather_info
+male_018.wav,Kal ka mausam kaisa rahega?,weather_info
+female_019.wav,Mujhe batao Aaj dhup ya badal rahega,weather_info
+male_019.wav,Mujhe batao Aaj dhup ya badal rahega,weather_info
+female_020.wav,Bhai Agla hafte ka mausam kaisa hoga ji,weather_info
+male_020.wav,Bhai Agla hafte ka mausam kaisa hoga ji,weather_info
+female_021.wav,Mujhe batao Aaj dhup ya badal rahega na,weather_info
+male_021.wav,Mujhe batao Aaj dhup ya badal rahega na,weather_info
+female_022.wav,Kal ka mausam kaisa rahega?,weather_info
+male_022.wav,Kal ka mausam kaisa rahega?,weather_info
+female_023.wav,Aaj dhup ya badal rahega please,weather_info
+male_023.wav,Aaj dhup ya badal rahega please,weather_info
+female_024.wav,Bhai Agla hafte ka mausam kaisa hoga kya,weather_info
+male_024.wav,Bhai Agla hafte ka mausam kaisa hoga kya,weather_info
+female_025.wav,Sir Mausam thoda thanda hai ya garam aaj,weather_info
+male_025.wav,Sir Mausam thoda thanda hai ya garam aaj,weather_info
+female_026.wav,Mujhe batao Kal ka mausam kaisa rahega kya,weather_info
+male_026.wav,Mujhe batao Kal ka mausam kaisa rahega kya,weather_info
+female_027.wav,Aaj dhup ya badal rahega ji,weather_info
+male_027.wav,Aaj dhup ya badal rahega ji,weather_info
+female_028.wav,Agla hafte ka mausam kaisa hoga?,weather_info
+male_028.wav,Agla hafte ka mausam kaisa hoga?,weather_info
+female_029.wav,Kya Mausam thoda thanda hai ya garam abhi,weather_info
+male_029.wav,Kya Mausam thoda thanda hai ya garam abhi,weather_info
+female_030.wav,Sir Kal ka mausam kaisa rahega please,weather_info
+male_030.wav,Sir Kal ka mausam kaisa rahega please,weather_info
+female_031.wav,Aaj barish hogi kya?,weather_info
+male_031.wav,Aaj barish hogi kya?,weather_info
+female_032.wav,Kal ka mausam kaisa rahega?,weather_info
+male_032.wav,Kal ka mausam kaisa rahega?,weather_info
+female_033.wav,Mujhe batao Aaj barish hogi kya please,weather_info
+male_033.wav,Mujhe batao Aaj barish hogi kya please,weather_info
+female_034.wav,Kal ka mausam kaisa rahega?,weather_info
+male_034.wav,Kal ka mausam kaisa rahega?,weather_info
+female_035.wav,Agla hafte ka mausam kaisa hoga abhi,weather_info
+male_035.wav,Agla hafte ka mausam kaisa hoga abhi,weather_info
+female_036.wav,Kya Aaj dhup ya badal rahega bataiye,weather_info
+male_036.wav,Kya Aaj dhup ya badal rahega bataiye,weather_info
+female_037.wav,Sir Aaj barish hogi kya?,weather_info
+male_037.wav,Sir Aaj barish hogi kya?,weather_info
+female_038.wav,Aaj barish hogi kya?,weather_info
+male_038.wav,Aaj barish hogi kya?,weather_info
+female_039.wav,Agla hafte ka mausam kaisa hoga?,weather_info
+male_039.wav,Agla hafte ka mausam kaisa hoga?,weather_info
+female_040.wav,Mausam thoda thanda hai ya garam please,weather_info
+male_040.wav,Mausam thoda thanda hai ya garam please,weather_info
+female_041.wav,Aaj dhup ya badal rahega please,weather_info
+male_041.wav,Aaj dhup ya badal rahega please,weather_info
+female_042.wav,Bhai Mausam thoda thanda hai ya garam?,weather_info
+male_042.wav,Bhai Mausam thoda thanda hai ya garam?,weather_info
+female_043.wav,Mujhe batao Aaj barish hogi kya ji,weather_info
+male_043.wav,Mujhe batao Aaj barish hogi kya ji,weather_info
+female_044.wav,Kal ka mausam kaisa rahega?,weather_info
+male_044.wav,Kal ka mausam kaisa rahega?,weather_info
+female_045.wav,Sir Aaj barish hogi kya?,weather_info
+male_045.wav,Sir Aaj barish hogi kya?,weather_info
+female_046.wav,Kya Mausam thoda thanda hai ya garam abhi,weather_info
+male_046.wav,Kya Mausam thoda thanda hai ya garam abhi,weather_info
+female_047.wav,Kal ka mausam kaisa rahega aaj,weather_info
+male_047.wav,Kal ka mausam kaisa rahega aaj,weather_info
+female_048.wav,Aaj barish hogi kya aaj,weather_info
+male_048.wav,Aaj barish hogi kya aaj,weather_info
+female_049.wav,Kya Mausam thoda thanda hai ya garam abhi,weather_info
+male_049.wav,Kya Mausam thoda thanda hai ya garam abhi,weather_info
+female_050.wav,Sir Kal ka mausam kaisa rahega please,weather_info
+male_050.wav,Sir Kal ka mausam kaisa rahega please,weather_info
+female_051.wav,Sir Khaad ki matra kitni honi chahiye please,fertilizer_use
+male_051.wav,Sir Khaad ki matra kitni honi chahiye please,fertilizer_use
+female_052.wav,Gehun ke liye kaunsa khaad use karein ji,fertilizer_use
+male_052.wav,Gehun ke liye kaunsa khaad use karein ji,fertilizer_use
+female_053.wav,Kya Khaad ki matra kitni honi chahiye abhi,fertilizer_use
+male_053.wav,Kya Khaad ki matra kitni honi chahiye abhi,fertilizer_use
+female_054.wav,Gehun ke liye kaunsa khaad use karein ji,fertilizer_use
+male_054.wav,Gehun ke liye kaunsa khaad use karein ji,fertilizer_use
+female_055.wav,Fasal me sahi khaad kaun sa hai please,fertilizer_use
+male_055.wav,Fasal me sahi khaad kaun sa hai please,fertilizer_use
+female_056.wav,Khet me urea kab dalein kya,fertilizer_use
+male_056.wav,Khet me urea kab dalein kya,fertilizer_use
+female_057.wav,Khet me urea kab dalein kya,fertilizer_use
+male_057.wav,Khet me urea kab dalein kya,fertilizer_use
+female_058.wav,Mujhe batao Khet me urea kab dalein?,fertilizer_use
+male_058.wav,Mujhe batao Khet me urea kab dalein?,fertilizer_use
+female_059.wav,Khet me urea kab dalein na,fertilizer_use
+male_059.wav,Khet me urea kab dalein na,fertilizer_use
+female_060.wav,Sir Gehun ke liye kaunsa khaad use karein ji,fertilizer_use
+male_060.wav,Sir Gehun ke liye kaunsa khaad use karein ji,fertilizer_use
+female_061.wav,NPK fertilizer kaise use karein please,fertilizer_use
+male_061.wav,NPK fertilizer kaise use karein please,fertilizer_use
+female_062.wav,NPK fertilizer kaise use karein aaj,fertilizer_use
+male_062.wav,NPK fertilizer kaise use karein aaj,fertilizer_use
+female_063.wav,Khet me urea kab dalein kya,fertilizer_use
+male_063.wav,Khet me urea kab dalein kya,fertilizer_use
+female_064.wav,Bhai Khaad ki matra kitni honi chahiye abhi,fertilizer_use
+male_064.wav,Bhai Khaad ki matra kitni honi chahiye abhi,fertilizer_use
+female_065.wav,Gehun ke liye kaunsa khaad use karein aaj,fertilizer_use
+male_065.wav,Gehun ke liye kaunsa khaad use karein aaj,fertilizer_use
+female_066.wav,NPK fertilizer kaise use karein aaj,fertilizer_use
+male_066.wav,NPK fertilizer kaise use karein aaj,fertilizer_use
+female_067.wav,Mujhe batao NPK fertilizer kaise use karein?,fertilizer_use
+male_067.wav,Mujhe batao NPK fertilizer kaise use karein?,fertilizer_use
+female_068.wav,Khaad ki matra kitni honi chahiye ji,fertilizer_use
+male_068.wav,Khaad ki matra kitni honi chahiye ji,fertilizer_use
+female_069.wav,Khet me urea kab dalein kya,fertilizer_use
+male_069.wav,Khet me urea kab dalein kya,fertilizer_use
+female_070.wav,Gehun ke liye kaunsa khaad use karein aaj,fertilizer_use
+male_070.wav,Gehun ke liye kaunsa khaad use karein aaj,fertilizer_use
+female_071.wav,Gehun ke liye kaunsa khaad use karein?,fertilizer_use
+male_071.wav,Gehun ke liye kaunsa khaad use karein?,fertilizer_use
+female_072.wav,Bhai NPK fertilizer kaise use karein ji,fertilizer_use
+male_072.wav,Bhai NPK fertilizer kaise use karein ji,fertilizer_use
+female_073.wav,Bhai Khet me urea kab dalein kya,fertilizer_use
+male_073.wav,Bhai Khet me urea kab dalein kya,fertilizer_use
+female_074.wav,Fasal me sahi khaad kaun sa hai please,fertilizer_use
+male_074.wav,Fasal me sahi khaad kaun sa hai please,fertilizer_use
+female_075.wav,Khet me urea kab dalein?,fertilizer_use
+male_075.wav,Khet me urea kab dalein?,fertilizer_use
+female_076.wav,NPK fertilizer kaise use karein bataiye,fertilizer_use
+male_076.wav,NPK fertilizer kaise use karein bataiye,fertilizer_use
+female_077.wav,Sir Khet me urea kab dalein abhi,fertilizer_use
+male_077.wav,Sir Khet me urea kab dalein abhi,fertilizer_use
+female_078.wav,NPK fertilizer kaise use karein na,fertilizer_use
+male_078.wav,NPK fertilizer kaise use karein na,fertilizer_use
+female_079.wav,Kya Khaad ki matra kitni honi chahiye na,fertilizer_use
+male_079.wav,Kya Khaad ki matra kitni honi chahiye na,fertilizer_use
+female_080.wav,NPK fertilizer kaise use karein please,fertilizer_use
+male_080.wav,NPK fertilizer kaise use karein please,fertilizer_use
+female_081.wav,Kya Khaad ki matra kitni honi chahiye na,fertilizer_use
+male_081.wav,Kya Khaad ki matra kitni honi chahiye na,fertilizer_use
+female_082.wav,Fasal me sahi khaad kaun sa hai ji,fertilizer_use
+male_082.wav,Fasal me sahi khaad kaun sa hai ji,fertilizer_use
+female_083.wav,Kya Khaad ki matra kitni honi chahiye na,fertilizer_use
+male_083.wav,Kya Khaad ki matra kitni honi chahiye na,fertilizer_use
+female_084.wav,Gehun ke liye kaunsa khaad use karein abhi,fertilizer_use
+male_084.wav,Gehun ke liye kaunsa khaad use karein abhi,fertilizer_use
+female_085.wav,Khet me urea kab dalein kya,fertilizer_use
+male_085.wav,Khet me urea kab dalein kya,fertilizer_use
+female_086.wav,NPK fertilizer kaise use karein na,fertilizer_use
+male_086.wav,NPK fertilizer kaise use karein na,fertilizer_use
+female_087.wav,Gehun ke liye kaunsa khaad use karein abhi,fertilizer_use
+male_087.wav,Gehun ke liye kaunsa khaad use karein abhi,fertilizer_use
+female_088.wav,Fasal me sahi khaad kaun sa hai please,fertilizer_use
+male_088.wav,Fasal me sahi khaad kaun sa hai please,fertilizer_use
+female_089.wav,Fasal me sahi khaad kaun sa hai?,fertilizer_use
+male_089.wav,Fasal me sahi khaad kaun sa hai?,fertilizer_use
+female_090.wav,Khet me urea kab dalein?,fertilizer_use
+male_090.wav,Khet me urea kab dalein?,fertilizer_use
+female_091.wav,Kya Khaad ki matra kitni honi chahiye na,fertilizer_use
+male_091.wav,Kya Khaad ki matra kitni honi chahiye na,fertilizer_use
+female_092.wav,Fasal me sahi khaad kaun sa hai please,fertilizer_use
+male_092.wav,Fasal me sahi khaad kaun sa hai please,fertilizer_use
+female_093.wav,Mujhe batao Khet me urea kab dalein?,fertilizer_use
+male_093.wav,Mujhe batao Khet me urea kab dalein?,fertilizer_use
+female_094.wav,Mujhe batao Khet me urea kab dalein?,fertilizer_use
+male_094.wav,Mujhe batao Khet me urea kab dalein?,fertilizer_use
+female_095.wav,NPK fertilizer kaise use karein aaj,fertilizer_use
+male_095.wav,NPK fertilizer kaise use karein aaj,fertilizer_use
+female_096.wav,Sir Khaad ki matra kitni honi chahiye please,fertilizer_use
+male_096.wav,Sir Khaad ki matra kitni honi chahiye please,fertilizer_use
+female_097.wav,Khaad ki matra kitni honi chahiye ji,fertilizer_use
+male_097.wav,Khaad ki matra kitni honi chahiye ji,fertilizer_use
+female_098.wav,Sir Gehun ke liye kaunsa khaad use karein ji,fertilizer_use
+male_098.wav,Sir Gehun ke liye kaunsa khaad use karein ji,fertilizer_use
+female_099.wav,Sir Khaad ki matra kitni honi chahiye please,fertilizer_use
+male_099.wav,Sir Khaad ki matra kitni honi chahiye please,fertilizer_use
+female_100.wav,Kya NPK fertilizer kaise use karein please,fertilizer_use
+male_100.wav,Kya NPK fertilizer kaise use karein please,fertilizer_use
+female_101.wav,Neem oil kaise lagayein ji,pest_control
+male_101.wav,Neem oil kaise lagayein ji,pest_control
+female_102.wav,Neem oil kaise lagayein ji,pest_control
+male_102.wav,Neem oil kaise lagayein ji,pest_control
+female_103.wav,Bhai Neem oil kaise lagayein kya,pest_control
+male_103.wav,Bhai Neem oil kaise lagayein kya,pest_control
+female_104.wav,Bhai Patton par daag lag gaye kya,pest_control
+male_104.wav,Bhai Patton par daag lag gaye kya,pest_control
+female_105.wav,Kya Neem oil kaise lagayein abhi,pest_control
+male_105.wav,Kya Neem oil kaise lagayein abhi,pest_control
+female_106.wav,Fasal me insects kaise control karein?,pest_control
+male_106.wav,Fasal me insects kaise control karein?,pest_control
+female_107.wav,Fasal me insects kaise control karein please,pest_control
+male_107.wav,Fasal me insects kaise control karein please,pest_control
+female_108.wav,Bhai Patton par daag lag gaye kya,pest_control
+male_108.wav,Bhai Patton par daag lag gaye kya,pest_control
+female_109.wav,Neem oil kaise lagayein na,pest_control
+male_109.wav,Neem oil kaise lagayein na,pest_control
+female_110.wav,Kya Neem oil kaise lagayein abhi,pest_control
+male_110.wav,Kya Neem oil kaise lagayein abhi,pest_control
+female_111.wav,Keede se bachne ke upay kya hai bataiye,pest_control
+male_111.wav,Keede se bachne ke upay kya hai bataiye,pest_control
+female_112.wav,Bhai Patton par daag lag gaye?,pest_control
+male_112.wav,Bhai Patton par daag lag gaye?,pest_control
+female_113.wav,Patton par daag lag gaye aaj,pest_control
+male_113.wav,Patton par daag lag gaye aaj,pest_control
+female_114.wav,Bhai Patton par daag lag gaye?,pest_control
+male_114.wav,Bhai Patton par daag lag gaye?,pest_control
+female_115.wav,Neem oil kaise lagayein please,pest_control
+male_115.wav,Neem oil kaise lagayein please,pest_control
+female_116.wav,Fasal me insects kaise control karein?,pest_control
+male_116.wav,Fasal me insects kaise control karein?,pest_control
+female_117.wav,Sir Fasal me insects kaise control karein please,pest_control
+male_117.wav,Sir Fasal me insects kaise control karein please,pest_control
+female_118.wav,Mujhe batao Patton par daag lag gaye please,pest_control
+male_118.wav,Mujhe batao Patton par daag lag gaye please,pest_control
+female_119.wav,Bhai Keede se bachne ke upay kya hai?,pest_control
+male_119.wav,Bhai Keede se bachne ke upay kya hai?,pest_control
+female_120.wav,Neem oil kaise lagayein please,pest_control
+male_120.wav,Neem oil kaise lagayein please,pest_control
+female_121.wav,Bhai Patton par daag lag gaye?,pest_control
+male_121.wav,Bhai Patton par daag lag gaye?,pest_control
+female_122.wav,Kya Fasal me insects kaise control karein abhi,pest_control
+male_122.wav,Kya Fasal me insects kaise control karein abhi,pest_control
+female_123.wav,Mere khet me keede lag gaye abhi,pest_control
+male_123.wav,Mere khet me keede lag gaye abhi,pest_control
+female_124.wav,Sir Fasal me insects kaise control karein please,pest_control
+male_124.wav,Sir Fasal me insects kaise control karein please,pest_control
+female_125.wav,Mujhe batao Patton par daag lag gaye please,pest_control
+male_125.wav,Mujhe batao Patton par daag lag gaye please,pest_control
+female_126.wav,Keede se bachne ke upay kya hai?,pest_control
+male_126.wav,Keede se bachne ke upay kya hai?,pest_control
+female_127.wav,Mujhe batao Mere khet me keede lag gaye,pest_control
+male_127.wav,Mujhe batao Mere khet me keede lag gaye,pest_control
+female_128.wav,Mujhe batao Mere khet me keede lag gaye,pest_control
+male_128.wav,Mujhe batao Mere khet me keede lag gaye,pest_control
+female_129.wav,Mere khet me keede lag gaye ji,pest_control
+male_129.wav,Mere khet me keede lag gaye ji,pest_control
+female_130.wav,Fasal me insects kaise control karein aaj,pest_control
+male_130.wav,Fasal me insects kaise control karein aaj,pest_control
+female_131.wav,Patton par daag lag gaye na,pest_control
+male_131.wav,Patton par daag lag gaye na,pest_control
+female_132.wav,Patton par daag lag gaye?,pest_control
+male_132.wav,Patton par daag lag gaye?,pest_control
+female_133.wav,Mere khet me keede lag gaye aaj,pest_control
+male_133.wav,Mere khet me keede lag gaye aaj,pest_control
+female_134.wav,Mujhe batao Patton par daag lag gaye kya,pest_control
+male_134.wav,Mujhe batao Patton par daag lag gaye kya,pest_control
+female_135.wav,Sir Mere khet me keede lag gaye na,pest_control
+male_135.wav,Sir Mere khet me keede lag gaye na,pest_control
+female_136.wav,Mujhe batao Mere khet me keede lag gaye,pest_control
+male_136.wav,Mujhe batao Mere khet me keede lag gaye,pest_control
+female_137.wav,Neem oil kaise lagayein aaj,pest_control
+male_137.wav,Neem oil kaise lagayein aaj,pest_control
+female_138.wav,Mere khet me keede lag gaye aaj,pest_control
+male_138.wav,Mere khet me keede lag gaye aaj,pest_control
+female_139.wav,Keede se bachne ke upay kya hai?,pest_control
+male_139.wav,Keede se bachne ke upay kya hai?,pest_control
+female_140.wav,Fasal me insects kaise control karein?,pest_control
+male_140.wav,Fasal me insects kaise control karein?,pest_control
+female_141.wav,Fasal me insects kaise control karein aaj,pest_control
+male_141.wav,Fasal me insects kaise control karein aaj,pest_control
+female_142.wav,Mere khet me keede lag gaye kya,pest_control
+male_142.wav,Mere khet me keede lag gaye kya,pest_control
+female_143.wav,Mujhe batao Fasal me insects kaise control karein ji,pest_control
+male_143.wav,Mujhe batao Fasal me insects kaise control karein ji,pest_control
+female_144.wav,Mujhe batao Mere khet me keede lag gaye,pest_control
+male_144.wav,Mujhe batao Mere khet me keede lag gaye,pest_control
+female_145.wav,Kya Keede se bachne ke upay kya hai kya,pest_control
+male_145.wav,Kya Keede se bachne ke upay kya hai kya,pest_control
+female_146.wav,Bhai Keede se bachne ke upay kya hai?,pest_control
+male_146.wav,Bhai Keede se bachne ke upay kya hai?,pest_control
+female_147.wav,Keede se bachne ke upay kya hai?,pest_control
+male_147.wav,Keede se bachne ke upay kya hai?,pest_control
+female_148.wav,Keede se bachne ke upay kya hai aaj,pest_control
+male_148.wav,Keede se bachne ke upay kya hai aaj,pest_control
+female_149.wav,Sir Patton par daag lag gaye abhi,pest_control
+male_149.wav,Sir Patton par daag lag gaye abhi,pest_control
+female_150.wav,Kya Neem oil kaise lagayein na,pest_control
+male_150.wav,Kya Neem oil kaise lagayein na,pest_control
+female_151.wav,Abhi wheat ya rice lagayein na,crop_recommendation
+male_151.wav,Abhi wheat ya rice lagayein na,crop_recommendation
+female_152.wav,Bhai Is season me kaunsi fasal lagani chahiye kya,crop_recommendation
+male_152.wav,Bhai Is season me kaunsi fasal lagani chahiye kya,crop_recommendation
+female_153.wav,Mujhe batao Kaunsi fasal abhi behtar hai,crop_recommendation
+male_153.wav,Mujhe batao Kaunsi fasal abhi behtar hai,crop_recommendation
+female_154.wav,Sir Kaunsi fasal abhi behtar hai ji,crop_recommendation
+male_154.wav,Sir Kaunsi fasal abhi behtar hai ji,crop_recommendation
+female_155.wav,Bhai Abhi wheat ya rice lagayein ji,crop_recommendation
+male_155.wav,Bhai Abhi wheat ya rice lagayein ji,crop_recommendation
+female_156.wav,Bhai Is season me kaunsi fasal lagani chahiye kya,crop_recommendation
+male_156.wav,Bhai Is season me kaunsi fasal lagani chahiye kya,crop_recommendation
+female_157.wav,Sir Mera khet kis fasal ke liye sahi hai abhi,crop_recommendation
+male_157.wav,Sir Mera khet kis fasal ke liye sahi hai abhi,crop_recommendation
+female_158.wav,Abhi wheat ya rice lagayein kya,crop_recommendation
+male_158.wav,Abhi wheat ya rice lagayein kya,crop_recommendation
+female_159.wav,Behtar crop ka suggestion kya hai kya,crop_recommendation
+male_159.wav,Behtar crop ka suggestion kya hai kya,crop_recommendation
+female_160.wav,Behtar crop ka suggestion kya hai aaj,crop_recommendation
+male_160.wav,Behtar crop ka suggestion kya hai aaj,crop_recommendation
+female_161.wav,Abhi wheat ya rice lagayein kya,crop_recommendation
+male_161.wav,Abhi wheat ya rice lagayein kya,crop_recommendation
+female_162.wav,Kya Mera khet kis fasal ke liye sahi hai abhi,crop_recommendation
+male_162.wav,Kya Mera khet kis fasal ke liye sahi hai abhi,crop_recommendation
+female_163.wav,Behtar crop ka suggestion kya hai ji,crop_recommendation
+male_163.wav,Behtar crop ka suggestion kya hai ji,crop_recommendation
+female_164.wav,Is season me kaunsi fasal lagani chahiye?,crop_recommendation
+male_164.wav,Is season me kaunsi fasal lagani chahiye?,crop_recommendation
+female_165.wav,Kaunsi fasal abhi behtar hai abhi,crop_recommendation
+male_165.wav,Kaunsi fasal abhi behtar hai abhi,crop_recommendation
+female_166.wav,Mera khet kis fasal ke liye sahi hai na,crop_recommendation
+male_166.wav,Mera khet kis fasal ke liye sahi hai na,crop_recommendation
+female_167.wav,Mujhe batao Abhi wheat ya rice lagayein ji,crop_recommendation
+male_167.wav,Mujhe batao Abhi wheat ya rice lagayein ji,crop_recommendation
+female_168.wav,Is season me kaunsi fasal lagani chahiye ji,crop_recommendation
+male_168.wav,Is season me kaunsi fasal lagani chahiye ji,crop_recommendation
+female_169.wav,Abhi wheat ya rice lagayein na,crop_recommendation
+male_169.wav,Abhi wheat ya rice lagayein na,crop_recommendation
+female_170.wav,Kya Behtar crop ka suggestion kya hai na,crop_recommendation
+male_170.wav,Kya Behtar crop ka suggestion kya hai na,crop_recommendation
+female_171.wav,Bhai Mera khet kis fasal ke liye sahi hai aaj,crop_recommendation
+male_171.wav,Bhai Mera khet kis fasal ke liye sahi hai aaj,crop_recommendation
+female_172.wav,Kya Kaunsi fasal abhi behtar hai kya,crop_recommendation
+male_172.wav,Kya Kaunsi fasal abhi behtar hai kya,crop_recommendation
+female_173.wav,Mujhe batao Abhi wheat ya rice lagayein ji,crop_recommendation
+male_173.wav,Mujhe batao Abhi wheat ya rice lagayein ji,crop_recommendation
+female_174.wav,Is season me kaunsi fasal lagani chahiye ji,crop_recommendation
+male_174.wav,Is season me kaunsi fasal lagani chahiye ji,crop_recommendation
+female_175.wav,Behtar crop ka suggestion kya hai ji,crop_recommendation
+male_175.wav,Behtar crop ka suggestion kya hai ji,crop_recommendation
+female_176.wav,Mera khet kis fasal ke liye sahi hai na,crop_recommendation
+male_176.wav,Mera khet kis fasal ke liye sahi hai na,crop_recommendation
+female_177.wav,Mera khet kis fasal ke liye sahi hai na,crop_recommendation
+male_177.wav,Mera khet kis fasal ke liye sahi hai na,crop_recommendation
+female_178.wav,Kya Kaunsi fasal abhi behtar hai kya,crop_recommendation
+male_178.wav,Kya Kaunsi fasal abhi behtar hai kya,crop_recommendation
+female_179.wav,Bhai Is season me kaunsi fasal lagani chahiye kya,crop_recommendation
+male_179.wav,Bhai Is season me kaunsi fasal lagani chahiye kya,crop_recommendation
+female_180.wav,Bhai Is season me kaunsi fasal lagani chahiye ji,crop_recommendation
+male_180.wav,Bhai Is season me kaunsi fasal lagani chahiye ji,crop_recommendation
+female_181.wav,Kaunsi fasal abhi behtar hai please,crop_recommendation
+male_181.wav,Kaunsi fasal abhi behtar hai please,crop_recommendation
+female_182.wav,Is season me kaunsi fasal lagani chahiye ji,crop_recommendation
+male_182.wav,Is season me kaunsi fasal lagani chahiye ji,crop_recommendation
+female_183.wav,Kaunsi fasal abhi behtar hai please,crop_recommendation
+male_183.wav,Kaunsi fasal abhi behtar hai please,crop_recommendation
+female_184.wav,Kya Abhi wheat ya rice lagayein kya,crop_recommendation
+male_184.wav,Kya Abhi wheat ya rice lagayein kya,crop_recommendation
+female_185.wav,Mera khet kis fasal ke liye sahi hai aaj,crop_recommendation
+male_185.wav,Mera khet kis fasal ke liye sahi hai aaj,crop_recommendation
+female_186.wav,Abhi wheat ya rice lagayein?,crop_recommendation
+male_186.wav,Abhi wheat ya rice lagayein?,crop_recommendation
+female_187.wav,Sir Kaunsi fasal abhi behtar hai ji,crop_recommendation
+male_187.wav,Sir Kaunsi fasal abhi behtar hai ji,crop_recommendation
+female_188.wav,Kya Behtar crop ka suggestion kya hai na,crop_recommendation
+male_188.wav,Kya Behtar crop ka suggestion kya hai na,crop_recommendation
+female_189.wav,Kya Mera khet kis fasal ke liye sahi hai kya,crop_recommendation
+male_189.wav,Kya Mera khet kis fasal ke liye sahi hai kya,crop_recommendation
+female_190.wav,Sir Is season me kaunsi fasal lagani chahiye?,crop_recommendation
+male_190.wav,Sir Is season me kaunsi fasal lagani chahiye?,crop_recommendation
+female_191.wav,Kya Mera khet kis fasal ke liye sahi hai abhi,crop_recommendation
+male_191.wav,Kya Mera khet kis fasal ke liye sahi hai abhi,crop_recommendation
+female_192.wav,Behtar crop ka suggestion kya hai bataiye,crop_recommendation
+male_192.wav,Behtar crop ka suggestion kya hai bataiye,crop_recommendation
+female_193.wav,Kya Behtar crop ka suggestion kya hai na,crop_recommendation
+male_193.wav,Kya Behtar crop ka suggestion kya hai na,crop_recommendation
+female_194.wav,Is season me kaunsi fasal lagani chahiye?,crop_recommendation
+male_194.wav,Is season me kaunsi fasal lagani chahiye?,crop_recommendation
+female_195.wav,Mera khet kis fasal ke liye sahi hai aaj,crop_recommendation
+male_195.wav,Mera khet kis fasal ke liye sahi hai aaj,crop_recommendation
+female_196.wav,Abhi wheat ya rice lagayein abhi,crop_recommendation
+male_196.wav,Abhi wheat ya rice lagayein abhi,crop_recommendation
+female_197.wav,Mera khet kis fasal ke liye sahi hai?,crop_recommendation
+male_197.wav,Mera khet kis fasal ke liye sahi hai?,crop_recommendation
+female_198.wav,Kya Mera khet kis fasal ke liye sahi hai kya,crop_recommendation
+male_198.wav,Kya Mera khet kis fasal ke liye sahi hai kya,crop_recommendation
+female_199.wav,Kya Mera khet kis fasal ke liye sahi hai kya,crop_recommendation
+male_199.wav,Kya Mera khet kis fasal ke liye sahi hai kya,crop_recommendation
+female_200.wav,Is season me kaunsi fasal lagani chahiye kya,crop_recommendation
+male_200.wav,Is season me kaunsi fasal lagani chahiye kya,crop_recommendation
+female_201.wav,Khet me paani ka schedule kya ho aaj,irrigation_advice
+male_201.wav,Khet me paani ka schedule kya ho aaj,irrigation_advice
+female_202.wav,Khet me paani ka schedule kya ho bataiye,irrigation_advice
+male_202.wav,Khet me paani ka schedule kya ho bataiye,irrigation_advice
+female_203.wav,Khet me paani ka schedule kya ho ji,irrigation_advice
+male_203.wav,Khet me paani ka schedule kya ho ji,irrigation_advice
+female_204.wav,Subah ya sham irrigation sahi hai?,irrigation_advice
+male_204.wav,Subah ya sham irrigation sahi hai?,irrigation_advice
+female_205.wav,Khet me paani ka schedule kya ho na,irrigation_advice
+male_205.wav,Khet me paani ka schedule kya ho na,irrigation_advice
+female_206.wav,Mujhe batao Khet me paani ka schedule kya ho?,irrigation_advice
+male_206.wav,Mujhe batao Khet me paani ka schedule kya ho?,irrigation_advice
+female_207.wav,Khet me paani ka schedule kya ho ji,irrigation_advice
+male_207.wav,Khet me paani ka schedule kya ho ji,irrigation_advice
+female_208.wav,Khet me paani ka schedule kya ho na,irrigation_advice
+male_208.wav,Khet me paani ka schedule kya ho na,irrigation_advice
+female_209.wav,Kheton me paani kab dena chahiye please,irrigation_advice
+male_209.wav,Kheton me paani kab dena chahiye please,irrigation_advice
+female_210.wav,Kheton me paani kab dena chahiye kya,irrigation_advice
+male_210.wav,Kheton me paani kab dena chahiye kya,irrigation_advice
+female_211.wav,Mujhe batao Khet me paani ka schedule kya ho?,irrigation_advice
+male_211.wav,Mujhe batao Khet me paani ka schedule kya ho?,irrigation_advice
+female_212.wav,Kheton me paani kab dena chahiye abhi,irrigation_advice
+male_212.wav,Kheton me paani kab dena chahiye abhi,irrigation_advice
+female_213.wav,Subah ya sham irrigation sahi hai?,irrigation_advice
+male_213.wav,Subah ya sham irrigation sahi hai?,irrigation_advice
+female_214.wav,Paani ki matra kitni honi chahiye?,irrigation_advice
+male_214.wav,Paani ki matra kitni honi chahiye?,irrigation_advice
+female_215.wav,Sir Drip irrigation sahi rahega kya abhi,irrigation_advice
+male_215.wav,Sir Drip irrigation sahi rahega kya abhi,irrigation_advice
+female_216.wav,Sir Kheton me paani kab dena chahiye ji,irrigation_advice
+male_216.wav,Sir Kheton me paani kab dena chahiye ji,irrigation_advice
+female_217.wav,Paani ki matra kitni honi chahiye please,irrigation_advice
+male_217.wav,Paani ki matra kitni honi chahiye please,irrigation_advice
+female_218.wav,Mujhe batao Subah ya sham irrigation sahi hai please,irrigation_advice
+male_218.wav,Mujhe batao Subah ya sham irrigation sahi hai please,irrigation_advice
+female_219.wav,Bhai Subah ya sham irrigation sahi hai?,irrigation_advice
+male_219.wav,Bhai Subah ya sham irrigation sahi hai?,irrigation_advice
+female_220.wav,Khet me paani ka schedule kya ho ji,irrigation_advice
+male_220.wav,Khet me paani ka schedule kya ho ji,irrigation_advice
+female_221.wav,Kheton me paani kab dena chahiye abhi,irrigation_advice
+male_221.wav,Kheton me paani kab dena chahiye abhi,irrigation_advice
+female_222.wav,Mujhe batao Drip irrigation sahi rahega kya please,irrigation_advice
+male_222.wav,Mujhe batao Drip irrigation sahi rahega kya please,irrigation_advice
+female_223.wav,Mujhe batao Subah ya sham irrigation sahi hai kya,irrigation_advice
+male_223.wav,Mujhe batao Subah ya sham irrigation sahi hai kya,irrigation_advice
+female_224.wav,Paani ki matra kitni honi chahiye?,irrigation_advice
+male_224.wav,Paani ki matra kitni honi chahiye?,irrigation_advice
+female_225.wav,Kheton me paani kab dena chahiye aaj,irrigation_advice
+male_225.wav,Kheton me paani kab dena chahiye aaj,irrigation_advice
+female_226.wav,Subah ya sham irrigation sahi hai kya,irrigation_advice
+male_226.wav,Subah ya sham irrigation sahi hai kya,irrigation_advice
+female_227.wav,Khet me paani ka schedule kya ho abhi,irrigation_advice
+male_227.wav,Khet me paani ka schedule kya ho abhi,irrigation_advice
+female_228.wav,Khet me paani ka schedule kya ho na,irrigation_advice
+male_228.wav,Khet me paani ka schedule kya ho na,irrigation_advice
+female_229.wav,Kya Paani ki matra kitni honi chahiye ji,irrigation_advice
+male_229.wav,Kya Paani ki matra kitni honi chahiye ji,irrigation_advice
+female_230.wav,Drip irrigation sahi rahega kya please,irrigation_advice
+male_230.wav,Drip irrigation sahi rahega kya please,irrigation_advice
+female_231.wav,Subah ya sham irrigation sahi hai na,irrigation_advice
+male_231.wav,Subah ya sham irrigation sahi hai na,irrigation_advice
+female_232.wav,Subah ya sham irrigation sahi hai?,irrigation_advice
+male_232.wav,Subah ya sham irrigation sahi hai?,irrigation_advice
+female_233.wav,Subah ya sham irrigation sahi hai ji,irrigation_advice
+male_233.wav,Subah ya sham irrigation sahi hai ji,irrigation_advice
+female_234.wav,Sir Drip irrigation sahi rahega kya abhi,irrigation_advice
+male_234.wav,Sir Drip irrigation sahi rahega kya abhi,irrigation_advice
+female_235.wav,Sir Kheton me paani kab dena chahiye ji,irrigation_advice
+male_235.wav,Sir Kheton me paani kab dena chahiye ji,irrigation_advice
+female_236.wav,Khet me paani ka schedule kya ho bataiye,irrigation_advice
+male_236.wav,Khet me paani ka schedule kya ho bataiye,irrigation_advice
+female_237.wav,Bhai Subah ya sham irrigation sahi hai kya,irrigation_advice
+male_237.wav,Bhai Subah ya sham irrigation sahi hai kya,irrigation_advice
+female_238.wav,Sir Kheton me paani kab dena chahiye ji,irrigation_advice
+male_238.wav,Sir Kheton me paani kab dena chahiye ji,irrigation_advice
+female_239.wav,Kya Drip irrigation sahi rahega kya kya,irrigation_advice
+male_239.wav,Kya Drip irrigation sahi rahega kya kya,irrigation_advice
+female_240.wav,Sir Subah ya sham irrigation sahi hai abhi,irrigation_advice
+male_240.wav,Sir Subah ya sham irrigation sahi hai abhi,irrigation_advice
+female_241.wav,Kya Drip irrigation sahi rahega kya kya,irrigation_advice
+male_241.wav,Kya Drip irrigation sahi rahega kya kya,irrigation_advice
+female_242.wav,Mujhe batao Subah ya sham irrigation sahi hai please,irrigation_advice
+male_242.wav,Mujhe batao Subah ya sham irrigation sahi hai please,irrigation_advice
+female_243.wav,Paani ki matra kitni honi chahiye aaj,irrigation_advice
+male_243.wav,Paani ki matra kitni honi chahiye aaj,irrigation_advice
+female_244.wav,Kya Paani ki matra kitni honi chahiye ji,irrigation_advice
+male_244.wav,Kya Paani ki matra kitni honi chahiye ji,irrigation_advice
+female_245.wav,Kheton me paani kab dena chahiye abhi,irrigation_advice
+male_245.wav,Kheton me paani kab dena chahiye abhi,irrigation_advice
+female_246.wav,Mujhe batao Khet me paani ka schedule kya ho?,irrigation_advice
+male_246.wav,Mujhe batao Khet me paani ka schedule kya ho?,irrigation_advice
+female_247.wav,Paani ki matra kitni honi chahiye please,irrigation_advice
+male_247.wav,Paani ki matra kitni honi chahiye please,irrigation_advice
+female_248.wav,Kya Drip irrigation sahi rahega kya kya,irrigation_advice
+male_248.wav,Kya Drip irrigation sahi rahega kya kya,irrigation_advice
+female_249.wav,Paani ki matra kitni honi chahiye please,irrigation_advice
+male_249.wav,Paani ki matra kitni honi chahiye please,irrigation_advice
+female_250.wav,Subah ya sham irrigation sahi hai kya,irrigation_advice
+male_250.wav,Subah ya sham irrigation sahi hai kya,irrigation_advice
